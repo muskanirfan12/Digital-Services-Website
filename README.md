@@ -6,9 +6,13 @@ These services can range from software applications and cloud storage to consult
 -**Key Features of a Digital Services Website:**
 
 ✅ Online Access – Users can access services from anywhere, anytime.
+
 ✅ Automation – Processes like payments, customer support, and bookings are automated.
+
 ✅ Scalability – Can serve multiple users simultaneously without physical limitations.
+
 ✅ Monetization – May offer free, subscription-based, or one-time payment services.
+
 
 -**Types of Digital Services Websites:**
 
